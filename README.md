@@ -20,7 +20,7 @@ A simple Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScrip
 - 🎮 Tracks scores
 - 🏆 Declares winner when score reaches 3
 - ♻️ Resets game automatically after match ends
-- 🎨 Emoji graphics for moves (👊 ✋ ✌️ 🤝)
+- 🎨 Emoji graphics for moves ( ✊ ✋ ✌️ )
 
 ---
 
